@@ -2,7 +2,7 @@
 
 ## Overview
 
-We'll explain what Babel does and how to use it for React development. 
+We'll explain what Babel does and how to use it for React development.
 
 ## Objectives
 1. Define and describe the benefits of using Babel plugins
@@ -66,3 +66,4 @@ Using the [`babel-plugin-transform-class-properties`](http://babeljs.io/docs/plu
 - [Babel: Plugins](http://babeljs.io/docs/plugins/)
 
 <p class='util--hide'>View <a href='https://learn.co/lessons/react-babel-plugins'>Babel Plugins</a> on Learn.co and start learning to code for free.</p>
+<3
